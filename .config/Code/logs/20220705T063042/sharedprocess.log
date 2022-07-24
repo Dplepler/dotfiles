@@ -1,0 +1,24 @@
+[2022-07-05 06:30:52.889] [sharedprocess] [info] Starting worker process with pid 2839 (type: fileWatcher, window: 1).
+[2022-07-05 06:30:59.808] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-07-05 06:30:59.817] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-containers
+[2022-07-05 06:30:59.818] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-07-05 06:31:00.377] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-07-05 06:31:00.441] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2022-07-05 06:31:00.849] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-07-05 06:31:02.695] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/dplepler/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.19
+[2022-07-05 06:31:02.771] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.5aac66e1-1f9d-4922-bc49-e4e9fc6b9fd5: jeff-hykin.better-cpp-syntax
+[2022-07-05 06:31:02.777] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.19
+[2022-07-05 06:31:02.783] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-07-05 06:31:02.800] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-07-05 06:31:03.373] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/dplepler/.config/Code/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.15.2
+[2022-07-05 06:31:03.813] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/dplepler/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.238.3
+[2022-07-05 06:31:04.097] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.d04a1ffe-0c1d-4776-85bc-44b438ba7480: zhuangtongfa.material-theme
+[2022-07-05 06:31:04.118] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/zhuangtongfa.material-theme-3.15.2
+[2022-07-05 06:31:04.118] [sharedprocess] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-07-05 06:31:04.133] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-07-05 06:31:07.535] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.95d21517-5794-499f-a1ce-20fc33c5e3db: ms-vscode-remote.remote-containers
+[2022-07-05 06:31:07.548] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/ms-vscode-remote.remote-containers-0.238.3
+[2022-07-05 06:31:07.551] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2022-07-05 06:31:07.573] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2022-07-06 05:49:24.935] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-06 15:08:55.627] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

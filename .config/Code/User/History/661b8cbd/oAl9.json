@@ -1,0 +1,14 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 1,
+    "editor.renderWhitespace": "none",
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "workbench.colorTheme": "GitHub Dark Dimmed",
+    "editor.folding": false,
+    "editor.fontFamily": "'Monolisa', monospace",
+    "editor.fontLigatures": true,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.indentation": false
+}

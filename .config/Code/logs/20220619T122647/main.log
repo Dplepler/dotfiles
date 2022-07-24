@@ -1,0 +1,9 @@
+[2022-06-19 12:26:49.328] [main] [info] window#load: attempt to load window (id: 1)
+[2022-06-19 12:26:49.406] [main] [info] update#setState idle
+[2022-06-19 12:26:50.792] [main] [info] ExtensionHostStarterWorker created
+[2022-06-19 12:26:56.922] [main] [info] window#load: window reported ready (id: 1)
+[2022-06-19 12:26:59.524] [main] [info] Starting extension host with pid 2787 (fork() took 445 ms).
+[2022-06-19 12:26:59.530] [main] [info] ExtensionHostStarterWorker.start() took 513 ms.
+[2022-06-19 12:27:19.421] [main] [info] update#setState checking for updates
+[2022-06-19 12:27:19.530] [main] [info] update#setState available for download
+[2022-06-19 12:27:31.217] [main] [info] Enabling inspect port on extension host with pid 2787.

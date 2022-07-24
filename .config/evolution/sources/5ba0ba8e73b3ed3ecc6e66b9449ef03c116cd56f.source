@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=david.plepler@gmail.com
+Enabled=true
+Parent=9b70f7a6148673df397e29d7247df72c22210a86
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=afacfdf9b7a4b8293b8c0f94748e6cb7794a1ae4
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=david.plepler@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

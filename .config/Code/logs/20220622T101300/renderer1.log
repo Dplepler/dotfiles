@@ -1,0 +1,7 @@
+[2022-06-22 10:13:06.585] [renderer1] [warning] [/home/dplepler/.vscode/extensions/equinusocio.vsc-community-material-theme-1.4.4]: property `extensionKind` can be defined only if property `main` is also defined.
+[2022-06-22 10:13:06.593] [renderer1] [warning] [/home/dplepler/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.2.0]: property `extensionKind` can be defined only if property `main` is also defined.
+[2022-06-22 10:13:06.746] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-06-22 10:13:06.869] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-22 10:13:07.310] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-06-22 10:13:11.647] [renderer1] [error] [Extension Host] (node:3534) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)

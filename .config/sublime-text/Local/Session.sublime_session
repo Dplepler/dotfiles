@@ -1,0 +1,972 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4126,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"next_update_check": 1658257381,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ter",
+						"terminal_setcolor"
+					],
+					[
+						"set",
+						"terminal_setcolor"
+					],
+					[
+						"uint",
+						"uint8_t"
+					],
+					[
+						"terminal_",
+						"terminal_putentryat"
+					],
+					[
+						"keyboar",
+						"keyboard_enc_send_cmd"
+					],
+					[
+						"keybo",
+						"keyboard_enc_read_buffer"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dplepler/.bashrc",
+				"/home/dplepler/data",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/vmm.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Bootload/DAP.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Bootload/stage0.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/linker.ld",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/protected_mode_setup.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/Bootloader.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Features/pm_strings.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/hal.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_keyboard.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_start.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_screen.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_screen.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_keyboard.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/hal.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/memory.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/memory.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Makefile",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/GDT.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/DAP.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/stage0.asm",
+				"/home/dplepler/Downloads/gdb-10.1/install-sh",
+				"/home/dplepler/Downloads/gdb-10.1/gdb/testsuite/gdb.base/gdbinit-history/unlimited/.gdbinit",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/PT.asm",
+				"/home/dplepler/Downloads/fs/myfs.h",
+				"/home/dplepler/Downloads/fs/blkdev.cpp",
+				"/home/dplepler/Downloads/fs/blkdev.h",
+				"/home/dplepler/Downloads/fs/myfs_main.cpp",
+				"/home/dplepler/Downloads/fs/myfs.cpp",
+				"/home/dplepler/Downloads/fs/test.txt",
+				"/home/dplepler/Downloads/fs/hello.txt",
+				"/home/dplepler/Downloads/fs/bin/test.txt",
+				"/home/dplepler/Downloads/fs/bin/block.txt",
+				"/home/dplepler/architecture/ex14/numbers.txt",
+				"/home/dplepler/architecture/ex14/ex2/numbers.txt",
+				"/home/dplepler/architecture/ex14/ex4/ex4.txt",
+				"/home/dplepler/architecture/ex14/ex3/ex3_exp.txt",
+				"/home/dplepler/architecture/ex14/ex3/con_proc.txt",
+				"/home/dplepler/architecture/ex14/ex3/ex3.bash",
+				"/home/dplepler/architecture/ex14/ex2/ex2-2.sh",
+				"/home/dplepler/architecture/ex14/ex1/ex2_1.sh",
+				"/home/dplepler/architecture/ex14/ex0_2.sh",
+				"/home/dplepler/Magshimim/EX9.sh",
+				"/home/dplepler/Magshimim/EX8.sh",
+				"/home/dplepler/Magshimim/ex4.txt",
+				"/home/dplepler/Magshimim/EX7.sh",
+				"/home/dplepler/Magshimim/EX2.sh",
+				"/home/dplepler/Magshimim/EX3.sh",
+				"/home/dplepler/Magshimim/EX4.sh",
+				"/home/dplepler/Magshimim/EX5.sh",
+				"/home/dplepler/Magshimim/EX6.sh",
+				"/home/dplepler/architecture/ex14/ex2/correct.txt",
+				"/home/dplepler/architecture/ex14/ex2/con_proc.txt",
+				"/home/dplepler/Magshimim/EX1.sh",
+				"/home/dplepler/architecture/ex14/ex0_1.txt",
+				"/home/dplepler/architecture/ex14/ex0_1",
+				"/home/dplepler/architecture/Plepler2.txt",
+				"/home/dplepler/Documents/Projects/AtOSx64/.git/config",
+				"/home/dplepler/architecture/Plepler.txt",
+				"/home/dplepler/Documents/Projects/Chess/Makefile",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Bishop.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Bishop.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Board.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Board.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/vector.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Rook.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Rook.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Queen.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Queen.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Point.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Point.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Play.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Play.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/King.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Knight.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Knight.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Pawn.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Pawn.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Piece.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Piece.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/King.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/main.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Debug/makefile",
+				"/home/dplepler/Desktop/eclipse-cpp-2019-09-R-linux-gtk-x86_64/eclipse/eclipse.ini",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Play.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Play.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Point.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Point.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Queen.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Queen.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Rook.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Rook.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Piece.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Piece.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Knight.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/King.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Board.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Board.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Bishop.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Bishop.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Knight.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Pawn.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Pawn.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/King.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/setup.py",
+				"/home/dplepler/src/build-gcc/Makefile"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"terminal_buffer",
+					"buffer",
+					"buffer-",
+					"buffer",
+					"endif",
+					"jmp $",
+					"table directory",
+					"Table directory",
+					"linker.ld",
+					"1000",
+					"80000001",
+					"std::cout",
+					"42",
+					"clear",
+					"BUFFER_INFO",
+					"END_OF_FILE",
+					"sizeof(short)",
+					"POINTER_SIZE",
+					"short",
+					"std::cout",
+					"\"0\"",
+					"\"1\"",
+					"folder",
+					"folder_t",
+					"read",
+					"cout",
+					"space",
+					"runtime_error",
+					"runtime_erorr",
+					"type_t",
+					"type+t",
+					"folder",
+					"terminal_buffer",
+					"Pair",
+					"Pai",
+					"outb",
+					"inb",
+					"endif",
+					"kybrd",
+					"KYBRD",
+					"copy",
+					"_board",
+					"std::vector",
+					"std::array",
+					"pushback",
+					"abs",
+					"std::vector",
+					"cout",
+					"GenericMyVector",
+					"index",
+					"id_t",
+					"std::",
+					"vectorClass",
+					"std::vector",
+					"std::array",
+					"id_t",
+					"GREY",
+					"vga_entry_color",
+					"main",
+					"install-target-libgcc"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"outportb",
+					"inportb",
+					"keyboard",
+					"KEYBOARD",
+					"vector"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ter",
+						"terminal_setcolor"
+					],
+					[
+						"set",
+						"terminal_setcolor"
+					],
+					[
+						"uint",
+						"uint8_t"
+					],
+					[
+						"terminal_",
+						"terminal_putentryat"
+					],
+					[
+						"keyboar",
+						"keyboard_enc_send_cmd"
+					],
+					[
+						"keybo",
+						"keyboard_enc_read_buffer"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/dplepler/data",
+					"settings":
+					{
+						"buffer_size": 56639920,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Makefile",
+					"settings":
+					{
+						"buffer_size": 1200,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/kernel.c",
+					"settings":
+					{
+						"buffer_size": 642,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/kernel_keyboard.c",
+					"settings":
+					{
+						"buffer_size": 1126,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/gdt.h",
+					"settings":
+					{
+						"buffer_size": 602,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/dplepler/.bashrc",
+					"settings":
+					{
+						"buffer_size": 3803,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							21,
+							2,
+							"left_delete",
+							null,
+							"AgAAANsOAAAAAAAA2w4AAAAAAAAaAAAAYWxpYXMgbnZpbT0nbnZpbS5hcHBpbWFnZSfaDgAAAAAAANoOAAAAAAAAAQAAAAo",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPUOAAAAAAAA2w4AAAAAAAAAAAAAAADwvw"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/dplepler/.bashrc",
+				"/home/dplepler/data",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/vmm.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Bootload/DAP.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Bootload/stage0.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/linker.ld",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/protected_mode_setup.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/Bootloader.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Features/pm_strings.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/hal.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_keyboard.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_start.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_screen.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_screen.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel_keyboard.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/hal.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/memory.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/memory.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Makefile",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Kernel/kernel.c",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/GDT.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/DAP.asm",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/stage0.asm",
+				"/home/dplepler/Downloads/gdb-10.1/install-sh",
+				"/home/dplepler/Downloads/gdb-10.1/gdb/testsuite/gdb.base/gdbinit-history/unlimited/.gdbinit",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/Bootload/PT.asm",
+				"/home/dplepler/Downloads/fs/myfs.h",
+				"/home/dplepler/Downloads/fs/blkdev.cpp",
+				"/home/dplepler/Downloads/fs/blkdev.h",
+				"/home/dplepler/Downloads/fs/myfs_main.cpp",
+				"/home/dplepler/Downloads/fs/myfs.cpp",
+				"/home/dplepler/Downloads/fs/test.txt",
+				"/home/dplepler/Downloads/fs/hello.txt",
+				"/home/dplepler/Downloads/fs/bin/test.txt",
+				"/home/dplepler/Downloads/fs/bin/block.txt",
+				"/home/dplepler/architecture/ex14/numbers.txt",
+				"/home/dplepler/architecture/ex14/ex2/numbers.txt",
+				"/home/dplepler/architecture/ex14/ex4/ex4.txt",
+				"/home/dplepler/architecture/ex14/ex3/ex3_exp.txt",
+				"/home/dplepler/architecture/ex14/ex3/con_proc.txt",
+				"/home/dplepler/architecture/ex14/ex3/ex3.bash",
+				"/home/dplepler/architecture/ex14/ex2/ex2-2.sh",
+				"/home/dplepler/architecture/ex14/ex1/ex2_1.sh",
+				"/home/dplepler/architecture/ex14/ex0_2.sh",
+				"/home/dplepler/Magshimim/EX9.sh",
+				"/home/dplepler/Magshimim/EX8.sh",
+				"/home/dplepler/Magshimim/ex4.txt",
+				"/home/dplepler/Magshimim/EX7.sh",
+				"/home/dplepler/Magshimim/EX2.sh",
+				"/home/dplepler/Magshimim/EX3.sh",
+				"/home/dplepler/Magshimim/EX4.sh",
+				"/home/dplepler/Magshimim/EX5.sh",
+				"/home/dplepler/Magshimim/EX6.sh",
+				"/home/dplepler/architecture/ex14/ex2/correct.txt",
+				"/home/dplepler/architecture/ex14/ex2/con_proc.txt",
+				"/home/dplepler/Magshimim/EX1.sh",
+				"/home/dplepler/architecture/ex14/ex0_1.txt",
+				"/home/dplepler/architecture/ex14/ex0_1",
+				"/home/dplepler/architecture/Plepler2.txt",
+				"/home/dplepler/Documents/Projects/AtOSx64/.git/config",
+				"/home/dplepler/architecture/Plepler.txt",
+				"/home/dplepler/Documents/Projects/Chess/Makefile",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Bishop.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Bishop.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Board.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Board.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/vector.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Rook.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Rook.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Queen.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Queen.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Point.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Point.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Play.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Play.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/King.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Knight.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Knight.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Pawn.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Pawn.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Piece.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Piece.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/King.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/main.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Debug/makefile",
+				"/home/dplepler/Desktop/eclipse-cpp-2019-09-R-linux-gtk-x86_64/eclipse/eclipse.ini",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Play.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Play.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Point.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Point.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Queen.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Queen.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Rook.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Rook.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Piece.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Piece.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Knight.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/King.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Board.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Board.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Bishop.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Bishop.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Knight.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Pawn.h",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/Pawn.cpp",
+				"/home/dplepler/Documents/Projects/Chess/Kernel/Chess/King.h",
+				"/home/dplepler/Documents/Projects/AtOSx64/AtOSx64/setup.py",
+				"/home/dplepler/src/build-gcc/Makefile"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"terminal_buffer",
+					"buffer",
+					"buffer-",
+					"buffer",
+					"endif",
+					"jmp $",
+					"table directory",
+					"Table directory",
+					"linker.ld",
+					"1000",
+					"80000001",
+					"std::cout",
+					"42",
+					"clear",
+					"BUFFER_INFO",
+					"END_OF_FILE",
+					"sizeof(short)",
+					"POINTER_SIZE",
+					"short",
+					"std::cout",
+					"\"0\"",
+					"\"1\"",
+					"folder",
+					"folder_t",
+					"read",
+					"cout",
+					"space",
+					"runtime_error",
+					"runtime_erorr",
+					"type_t",
+					"type+t",
+					"folder",
+					"terminal_buffer",
+					"Pair",
+					"Pai",
+					"outb",
+					"inb",
+					"endif",
+					"kybrd",
+					"KYBRD",
+					"copy",
+					"_board",
+					"std::vector",
+					"std::array",
+					"pushback",
+					"abs",
+					"std::vector",
+					"cout",
+					"GenericMyVector",
+					"index",
+					"id_t",
+					"std::",
+					"vectorClass",
+					"std::vector",
+					"std::array",
+					"id_t",
+					"GREY",
+					"vga_entry_color",
+					"main",
+					"install-target-libgcc"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"outportb",
+					"inportb",
+					"keyboard",
+					"KEYBOARD",
+					"vector"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/dplepler/data",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 56639920,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Makefile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1200,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 189.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/kernel.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 642,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 126.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/kernel_keyboard.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1126,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 126.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/dplepler/Documents/Projects/AtOSx64/AtOSx32/Kernel/gdt.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 602,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/dplepler/.bashrc",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3803,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3803,
+										3803
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2205.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1918,982,0",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

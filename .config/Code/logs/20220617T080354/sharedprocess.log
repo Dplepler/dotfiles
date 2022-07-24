@@ -1,0 +1,31 @@
+[2022-06-17 08:04:02.271] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh /home/dplepler/.vscode/extensions/ms-vscode-remote.remote-ssh-0.80.0
+[2022-06-17 08:04:02.281] [sharedprocess] [info] Deleted from disk ms-vscode.cmake-tools /home/dplepler/.vscode/extensions/ms-vscode.cmake-tools-1.10.5
+[2022-06-17 08:04:03.805] [sharedprocess] [info] Starting worker process with pid 3663 (type: fileWatcher, window: 1).
+[2022-06-17 08:04:08.667] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-06-17 08:04:08.670] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-06-17 08:04:08.673] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-17 08:04:08.684] [sharedprocess] [info] Getting Manifest... zhuangtongfa.material-theme
+[2022-06-17 08:04:09.214] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-06-17 08:04:09.478] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-06-17 08:04:09.561] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-06-17 08:04:09.768] [sharedprocess] [info] Installing extension: zhuangtongfa.material-theme
+[2022-06-17 08:04:11.745] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/dplepler/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-17 08:04:11.816] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.a25d7ebb-d482-4fd4-9f42-e2ee4ba06fea: jeff-hykin.better-cpp-syntax
+[2022-06-17 08:04:11.821] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-17 08:04:11.824] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-06-17 08:04:11.834] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-06-17 08:04:13.827] [sharedprocess] [info] Downloaded extension: zhuangtongfa.material-theme /home/dplepler/.config/Code/CachedExtensionVSIXs/zhuangtongfa.material-theme-3.15.0
+[2022-06-17 08:04:14.007] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.3a4cb035-12d3-42b9-991b-2c83d17b9db0: zhuangtongfa.material-theme
+[2022-06-17 08:04:14.017] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/zhuangtongfa.material-theme-3.15.0
+[2022-06-17 08:04:14.019] [sharedprocess] [info] Extracting completed. zhuangtongfa.material-theme
+[2022-06-17 08:04:14.026] [sharedprocess] [info] Extension installed successfully: zhuangtongfa.material-theme
+[2022-06-17 08:04:14.241] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/dplepler/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.11.26
+[2022-06-17 08:04:14.686] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.b404a544-7e08-4039-82f8-36ca4ac1be86: ms-vscode.cmake-tools
+[2022-06-17 08:04:14.695] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/ms-vscode.cmake-tools-1.11.26
+[2022-06-17 08:04:14.699] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-06-17 08:04:14.704] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-06-17 08:04:56.183] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/dplepler/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-17 08:05:02.008] [sharedprocess] [info] Extracted extension to /home/dplepler/.vscode/extensions/.69c00939-3091-4f10-9570-747bd379389f: ms-vscode.cpptools
+[2022-06-17 08:05:02.023] [sharedprocess] [info] Renamed to /home/dplepler/.vscode/extensions/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-17 08:05:02.036] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-06-17 08:05:02.068] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
