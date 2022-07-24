@@ -1,8 +1,0 @@
-[2022-06-19 12:27:08.681] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2022-06-19 12:27:09.708] [sharedprocess] [info] Starting worker process with pid 2865 (type: fileWatcher, window: 1).
-[2022-06-19 12:27:11.812] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/dplepler/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.16
-[2022-06-19 12:27:12.329] [sharedprocess] [info] Deleted from disk zhuangtongfa.material-theme /home/dplepler/.vscode/extensions/zhuangtongfa.material-theme-3.14.3
-[2022-06-19 12:27:12.773] [sharedprocess] [info] Deleted from disk ms-vscode.cmake-tools /home/dplepler/.vscode/extensions/ms-vscode.cmake-tools-1.11.25
-[2022-06-19 12:27:12.774] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/dplepler/.vscode/extensions/ms-vscode.cpptools-1.10.5-linux-x64
-[2022-06-20 04:19:29.258] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
-[2022-06-21 10:02:32.818] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

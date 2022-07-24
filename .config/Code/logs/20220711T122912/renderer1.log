@@ -1,5 +1,0 @@
-[2022-07-11 12:29:16.526] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
-[2022-07-11 12:29:16.642] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
-[2022-07-11 12:29:17.518] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
-[2022-07-11 12:29:20.589] [renderer1] [error] [Extension Host] (node:12468) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
